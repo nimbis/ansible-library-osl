@@ -1,0 +1,10 @@
+---
+galaxy_info:
+  author: Nimbis Services
+  description: Repackaged Ansible roles from around the wild Internet
+  company: Nimbis Services, Inc.
+  license: various
+  min_ansible_version: 1.9
+  categories:
+    - system
+dependencies: []
